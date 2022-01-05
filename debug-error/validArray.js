@@ -27,4 +27,4 @@ function validaArray(arr, num) {
 
 }
 
-console.log(validaArray());
+console.log(validaArray([1, 2, 3], 3));
